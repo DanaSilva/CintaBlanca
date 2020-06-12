@@ -1,0 +1,50 @@
+* {
+
+    background-color: lightpink;
+}
+
+h1 {
+
+    border: mediumvioletred;
+    display: inline;
+    border: 2px;
+    border: solid; color: rgb(82, 1, 35);
+    width: 100px;
+    height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 50px;
+    margin-top: 110px;
+
+
+}
+
+
+p {
+
+    border: purple solid 2px;
+    width: 150px;
+    height: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(110, 0, 52);
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+a {
+    border: 4px rgb(165, 17, 66) solid;
+    display: inline;
+}
+
+.contenedor {
+    border: 2px solid rgb(116, 5, 131);
+    height: 70px;
+        /* top/bottom  r/l */
+    margin: 10px    100px;
+}
+.item{
+         /* t b  r     l */
+    margin: 0 0 10px 750px;
+}

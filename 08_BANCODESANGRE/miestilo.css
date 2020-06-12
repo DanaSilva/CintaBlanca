@@ -1,0 +1,42 @@
+.padre{
+    
+    /* width: 500px; */
+   background-color: #353a40;
+
+ 
+}
+
+.mapaA {
+
+    width: 100%;
+}
+
+.carrusel {
+
+    width: 100%;
+    height: 500px;
+    margin-top: 70px;
+}
+
+.myimage {
+
+    width: 100%;
+    
+}
+
+.madre{
+    
+    /* width: 500px; */
+   background-color: #ffffff;
+   margin-top: 50px;
+   margin-left: 50px;
+
+
+ 
+}
+
+
+.page-footer{
+
+    margin-top: 10px;
+}

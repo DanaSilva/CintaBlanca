@@ -1,0 +1,17 @@
+body{
+    display: flex;
+}
+
+.izq {
+    border:black2px solid;
+    width: 350px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+izqarriba {
+
+    
+}

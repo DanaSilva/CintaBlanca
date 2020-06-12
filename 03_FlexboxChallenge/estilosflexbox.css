@@ -1,0 +1,80 @@
+* {
+
+    background-color: rgb(247, 203, 247);
+}
+
+.container{
+
+    width: 1000px;
+    height: 800px;
+    border: purple solid 3px;
+    align-items: center;
+    display:flex;
+    justify-content: space-around;
+    
+
+}
+
+.hijos{
+
+    width: 40%;
+    height: 40%;
+    margin: 10px 10px 10px 10px;
+    border: solid 2px rgb(4, 82, 112);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.primos{
+
+    width: 30%;
+    height: 30%;
+    margin: 10px 10px 10px 10px;
+    border: rebeccapurple solid 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adoptados{
+
+    width: 20%;
+    height: 20%;
+    border: royalblue solid 2px;
+    margin: 2px 2px 2px 2px;
+
+}
+
+.adoptadas{
+
+    width: 20%;
+    height: 20%;
+    border: rgb(216, 17, 235) solid 2px;
+    margin: 2px 2px 2px 2px;
+
+}
+
+.hijas{
+
+    width: 40%;
+    height: 40%;
+    border: solid 2px rgb(4, 82, 112);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.primas{
+
+    width: 30%;
+    height: 30%;
+    border: rebeccapurple solid 2px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

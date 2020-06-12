@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap'); 
+
+
+.myimage {
+
+    width: 1200px;
+    height: 400px;
+}
+
+.mycard {
+
+ 
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 10px 10px 10px;
+
+}
+
+
+.padre{
+    
+    /* width: 500px; */
+    height: 500px;
+    margin-top: 50px;
+
+    
+}
+
+.carrusel {
+
+    border-color: white;
+}
+
+.titulo {
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
+}
+
+

@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap" rel="stylesheet');
+
+
+h1 {
+    font-family: 'Mukta', sans-serif;
+    color: #5c1bd4;
+    margin-top: 10px;
+   align-items: flex-start;
+
+
+}
+
+.mycolor {
+
+
+    background-image: url("./assets/donas_dana_a.jpg");
+ 
+    
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-attachment: fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    height: 750px;
+    width: 100%;
+    
+  
+  }
+
+  
+.tarjeta {
+    border: #5c1bd4 solid 2px;    
+    background-color: rgb(142, 222, 233, 0.3);
+    width: 360px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: 'Mukta', sans-serif;
+    color: #5c1bd4;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 15px;
+
+    
+
+}
+
+.none{
+    display: none;
+}
+
+.padre{
+   
+    margin-top: 30px;
+    font-size: 14px;
+    color: violet;
+}
+
+.form-row {
+    font-size: 14px;
+    color: #5c1bd4;
+    font-family: 'Mukta', sans-serif;
+ 
+
+
+}
+
+.myboton {
+    color: rgb(250, 189, 224);
+    background-color: #5c1bd4;
+    border-color: thistle solid 2px;
+  
+    
+}

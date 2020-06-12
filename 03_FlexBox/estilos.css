@@ -1,0 +1,33 @@
+* {
+
+background-color: burlywood;    
+}
+
+.padre{
+    /* Lo que le llamamos padre es conocido como contenedor */
+    width: 600px;
+    height: 500px;
+    border: solid 2px purple;
+
+    /* decimos que usaremos flexbox */
+    display: flex;
+    /* display flex mueve los elementos en una forma horizontal */
+
+    /* justify-content: space-around;
+
+    align-items: center; >> funciona para colocar los elementos alineados dentro del container */
+
+    align-items: center;
+
+    flex-direction: column;
+    /* con flex direction column mi eje x se convierte en el elemento y  */
+}
+
+.hijo{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(37, 3, 37);
+    margin: 10px 10px 10px 10px;
+    
+}
+
